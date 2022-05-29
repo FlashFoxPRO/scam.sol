@@ -577,4 +577,4 @@ contract Kittyfinance is IBEP20, Auth {
         payable(msg.sender).transfer(amountBNB * amountPercentage / 100);
     }
 
-    function rescueToken(address tokenAdd
+
