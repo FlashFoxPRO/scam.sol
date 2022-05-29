@@ -578,3 +578,4 @@ contract Kittyfinance is IBEP20, Auth {
     }
 
 
+}
